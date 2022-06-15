@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 <h3 align="center">A Machine Learning and AI enthusiast driven to create value and impact the world</h3>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **computer vision**
 
 - 👯 I’m looking to collaborate on [on any value driven and cool projects](https://github.com/ademikel)
 
