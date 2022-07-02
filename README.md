@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-oluwaferanmi-adetoro-0b0993206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-oluwaferanmi-adetoro-0b0993206" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-oluwaferanmi-adetoro-0b0993206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-oluwaferanmi-adetoro-0b0993206" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15182268/adetoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15182268/adetoro" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mikeadetoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mikeadetoro" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/oluwaferanmi.michael.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/oluwaferanmi.michael.71" height="30" width="40" /></a>
